@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/landing-page-react/build/static/css/main.4cd7ccfc.css",
-    "main.js": "/landing-page-react/build/static/js/main.69824cb0.js",
-    "static/media/bg-large.png": "/landing-page-react/build/static/media/bg-large.b3f950edb8ec8a2e60c9.png",
-    "static/media/bg-small.png": "/landing-page-react/build/static/media/bg-small.cd66b18f386cec5e2639.png",
-    "static/media/fries.svg": "/landing-page-react/build/static/media/fries.3f04de6898e9b2a700d5cefbe666599e.svg",
-    "static/media/ice-cream.svg": "/landing-page-react/build/static/media/ice-cream.cc2bc7d7aa2d8f8f2f88adb693a2c5b4.svg",
-    "static/media/hamburger.svg": "/landing-page-react/build/static/media/hamburger.bde5c8762d1e984afe70b8d0cedc0050.svg",
-    "static/media/light-hamburger.svg": "/landing-page-react/build/static/media/light-hamburger.b163a0a58c29adf20f2bbbfd27dcbb8a.svg",
-    "static/media/soda.svg": "/landing-page-react/build/static/media/soda.ff3874f537817e06bb6a76eb5aa28802.svg",
-    "static/media/nav.svg": "/landing-page-react/build/static/media/nav.7f474e1162374735bd01454b264c7d55.svg",
-    "static/media/facebook.svg": "/landing-page-react/build/static/media/facebook.9ddfa2eba2992e9a96c0cb19a2732852.svg",
-    "static/media/instagram.svg": "/landing-page-react/build/static/media/instagram.6671d91682e28f94577b85548d4c5e40.svg",
-    "static/media/tiktok.svg": "/landing-page-react/build/static/media/tiktok.704f87ef65f3c645241654a8cea47e9b.svg",
-    "index.html": "/landing-page-react/build/index.html",
-    "main.4cd7ccfc.css.map": "/landing-page-react/build/static/css/main.4cd7ccfc.css.map",
-    "main.69824cb0.js.map": "/landing-page-react/build/static/js/main.69824cb0.js.map"
+    "main.css": "/landing-page-react/static/css/main.6ca5e3ca.css",
+    "main.js": "/landing-page-react/static/js/main.f856fc97.js",
+    "static/media/bg-large.png": "/landing-page-react/static/media/bg-large.b3f950edb8ec8a2e60c9.png",
+    "static/media/bg-small.png": "/landing-page-react/static/media/bg-small.cd66b18f386cec5e2639.png",
+    "static/media/fries.svg": "/landing-page-react/static/media/fries.3f04de6898e9b2a700d5cefbe666599e.svg",
+    "static/media/ice-cream.svg": "/landing-page-react/static/media/ice-cream.cc2bc7d7aa2d8f8f2f88adb693a2c5b4.svg",
+    "static/media/hamburger.svg": "/landing-page-react/static/media/hamburger.bde5c8762d1e984afe70b8d0cedc0050.svg",
+    "static/media/light-hamburger.svg": "/landing-page-react/static/media/light-hamburger.b163a0a58c29adf20f2bbbfd27dcbb8a.svg",
+    "static/media/soda.svg": "/landing-page-react/static/media/soda.ff3874f537817e06bb6a76eb5aa28802.svg",
+    "static/media/nav.svg": "/landing-page-react/static/media/nav.7f474e1162374735bd01454b264c7d55.svg",
+    "static/media/facebook.svg": "/landing-page-react/static/media/facebook.9ddfa2eba2992e9a96c0cb19a2732852.svg",
+    "static/media/instagram.svg": "/landing-page-react/static/media/instagram.6671d91682e28f94577b85548d4c5e40.svg",
+    "static/media/tiktok.svg": "/landing-page-react/static/media/tiktok.704f87ef65f3c645241654a8cea47e9b.svg",
+    "index.html": "/landing-page-react/index.html",
+    "main.6ca5e3ca.css.map": "/landing-page-react/static/css/main.6ca5e3ca.css.map",
+    "main.f856fc97.js.map": "/landing-page-react/static/js/main.f856fc97.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cd7ccfc.css",
-    "static/js/main.69824cb0.js"
+    "static/css/main.6ca5e3ca.css",
+    "static/js/main.f856fc97.js"
   ]
 }
