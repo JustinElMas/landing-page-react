@@ -1,7 +1,7 @@
 # Steam burger app.
 Aquí encontrarás el código del styleguide y de la página terminada.
 Éste proyecto fue creado con create react app e incluye únicamente
-las funcionalidades básicas de un proyecto en react.
+las funcionalidades básicas de un proyecto en react. Hola
 [Create React App](https://github.com/facebook/create-react-app)
 
 ## Cómo instalar el proyecto.
